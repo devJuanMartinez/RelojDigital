@@ -2,10 +2,14 @@
     font-family: sans-serif;
     font-size: 3rem;
 }
-
+h1{
+    font-size: 100px;
+    width: 30%;
+    margin: 80px auto;
+}
 .container{
     border: 2px solid black;
-    width: 50%;
+    width: 30%;
     margin: 100px auto;
     padding: 10px;
     border-radius: 10px;
